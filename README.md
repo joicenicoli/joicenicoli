@@ -1,6 +1,6 @@
 - olá me chamo joicenicoli 
-seja bem vindo ao perfil
-
+- seja bem vindo ao meu perfil
+- OBRIGADO
 ###
 
 <div align="center">
